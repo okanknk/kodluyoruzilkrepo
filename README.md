@@ -6,3 +6,12 @@ Bu repo kodluyoruz egitiminde olusturdugumuz ilk repo. Icerisinde bir adet READM
 Oncelikle projeyi clonelayin. (Buraya sizin reponuzdan aldiginiz link gelecek)
 
 `git clone https://github.com/okanknk/kodluyoruzilkrepo.git`
+
+## Usage
+
+Projeyi cloneladiktan sonra Visual Studio Code programinda aciniz
+
+Linux icin:
+
+`cd kodluyoruzilkrepo
+code .`
