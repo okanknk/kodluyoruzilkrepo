@@ -1,6 +1,8 @@
 # Kodluyoruz Ilk Repo
 Bu repo kodluyoruz egitiminde olusturdugumuz ilk repo. Icerisinde bir adet README dosyasi, bir adet index.html barindiriyor
 
+![Images](Images/Capture.PNG)
+
 ## Installation
 
 Oncelikle projeyi clonelayin. (Buraya sizin reponuzdan aldiginiz link gelecek)
