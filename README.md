@@ -1,5 +1,5 @@
 # Kodluyoruz Ilk Repo
-Bu repo kodluyoruz egitiminde olusturdugumuz ilk repo. Icerisinde bir adet README dosyasi, bir adet index.html barindiriyor
+Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) ve [Patika](https://www.patika.dev/) egitiminde olusturdugumuz ilk repo. Icerisinde bir adet README dosyasi, bir adet index.html barindiriyor
 
 ![Images](Images/Capture.PNG)
 
